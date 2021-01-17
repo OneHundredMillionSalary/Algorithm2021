@@ -5,7 +5,7 @@
 ####
 👀 [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 ####
-
+[solution](https://github.com/YChaeeun/Algorithm/blob/master/week2/LeetCode_763.py)
 ####
 👀 [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 ####
@@ -25,3 +25,4 @@
 ####
 👀 [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 ####
+[solution](https://github.com/YChaeeun/Algorithm/blob/master/week2/LeetCode_1302.py)
