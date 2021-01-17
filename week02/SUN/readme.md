@@ -9,15 +9,15 @@
 ####
 👀 [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 ####
-[solution](https://github.com/histuckyi/algorithm/blob/master/leetcode/1277.py)
+[solution]()
 ####
 👀 [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 ####
-[solution](https://github.com/histuckyi/algorithm/blob/master/leetcode/1314.py)
+[solution]()
 ####
 👀 [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 ####
-[solution](https://github.com/histuckyi/algorithm/blob/master/leetcode/1008.py)
+[solution]()
 ####
 👀 [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
 ####
@@ -25,4 +25,4 @@
 ####
 👀 [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 ####
-[solution](https://github.com/histuckyi/algorithm/blob/master/leetcode/1302.py)
+[solution]()
