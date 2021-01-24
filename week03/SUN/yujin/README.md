@@ -8,7 +8,7 @@
 ####
 👀 [  Create Sorted Array through Instructions](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3599/)
 ####
-[solution](https://github.com/OneHundredMillionSalary/Algorithm2021/blob/main/week03/SUN/Q07.java)
+[solution](https://github.com/OneHundredMillionSalary/Algorithm2021/blob/main/week03/SUN/yujin/Q07.java)
 ####
 👀 [  Merge Sorted Array](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3600/)
 ####
