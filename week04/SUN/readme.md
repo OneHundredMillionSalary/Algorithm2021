@@ -26,7 +26,7 @@
 ####
 [solution]()
 ####
-👀   Find the Most Competitive Subsequence](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3611/)
+👀[Find the Most Competitive Subsequence](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3611/)
 ####
 [solution]()
 
