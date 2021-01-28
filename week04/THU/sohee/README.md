@@ -41,20 +41,6 @@
 👀 [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 #### 
 
-
-
-#### 
-
-👀 [전깃줄](https://www.acmicpc.net/problem/2565)
-#### 
-
-
-
-#### 
-
-👀 [연속합](https://www.acmicpc.net/problem/1912)
-#### 
-
-
+[solution](https://github.com/so-ohee/Algorithm/blob/main/src/me/algo/BaekJoon/Main_11053_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.java)
 
 #### 
