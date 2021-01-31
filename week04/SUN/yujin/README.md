@@ -28,5 +28,5 @@
 ####
 👀[Find the Most Competitive Subsequence](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3611/)
 ####
-[solution](https://github.com/OneHundredMillionSalary/Algorithm2021/new/main/week04/SUN/yujin/Q07.java) - Timeout
+[solution](https://github.com/OneHundredMillionSalary/Algorithm2021/blob/main/week04/SUN/yujin/Q07.java) - Timeout
 
