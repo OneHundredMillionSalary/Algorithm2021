@@ -1,5 +1,5 @@
 # 2021
-## Week 8 THU 문제 (백준)
+## Week 9 THU 문제 (백준)
 
 👀 [연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658)
 
