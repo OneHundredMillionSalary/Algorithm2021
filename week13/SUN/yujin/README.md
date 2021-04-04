@@ -9,7 +9,7 @@
 ####
 👀 [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
 ####
-[solution]()
+[solution](https://github.com/OneHundredMillionSalary/Algorithm2021/blob/main/week13/SUN/yujin/Q02.java)
 
 ####
 
