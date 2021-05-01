@@ -9,7 +9,6 @@
 ####
 👀 [474. Ones and Zeroes (Medium)](https://leetcode.com/problems/ones-and-zeroes/)
 ####
-[solution]()
 
 ####
 👀 [32. Longest Valid Parentheses (Hard)](https://leetcode.com/problems/longest-valid-parentheses/)
@@ -24,14 +23,11 @@
 ####
 👀 [775. Global and Local Inversions (Medium)](https://leetcode.com/problems/global-and-local-inversions/)
 ####
-[solution]()
 
 ####
 👀 [1551. Minimum Operations to Make Array Equal (Medium)](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
 ####
-[solution]()
 
 ####
 👀 [1704. Determine if String Halves Are Alike (Easy)](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 ####
-[solution]()
