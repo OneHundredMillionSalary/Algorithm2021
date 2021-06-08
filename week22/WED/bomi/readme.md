@@ -10,5 +10,5 @@
 ####
 👀 [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)
 ####
-[solution]https://github.com/BBBOMi/Algorithms-New/blob/master/week56/wed/P77486.kt()
+[solution](https://github.com/BBBOMi/Algorithms-New/blob/master/week56/wed/P77486.kt()
 ####
