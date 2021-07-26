@@ -1,7 +1,7 @@
 ## Week 26 문제 (LeetCode)
 
 ####
-👀 [105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)](https://leetcode.com/problems/max-area-of-island/)
+👀 [105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 ####
 [solution]()
 ####
