@@ -10,12 +10,10 @@
 [solution](https://github.com/BBBOMi/Algorithms-New/blob/master/week60/Leet97.kt)
 ####
 👀 [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (Medium)](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)
-####
-[solution]()
+
 ####
 👀 [752. Open the Lock (Medium)](https://leetcode.com/problems/open-the-lock/)
-####
-[solution]()
+
 ####
 👀 [1383. Maximum Performance of a Team (Hard)](https://leetcode.com/problems/maximum-performance-of-a-team/)
 ####
