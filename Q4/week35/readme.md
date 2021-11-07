@@ -1,5 +1,25 @@
 ## Week 35 문제 
 > weekly challenge가 사라져서 contest문제로 대체합니다.
+<details>
+  <summary>readme를 생성합니다</summary>
+  <p>
+
+```kotlin
+    fun main() {
+    //    ### 👀 [1710](https://leetcode.com/problemset/all/?search=1710&page=1)
+        val start = 1718
+
+        for (i in 0..7) {
+            println("### \uD83D\uDC40 [${start + i}](https://leetcode.com/problemset/all/?search=${start + i}&page=1)")
+            println("####\n" +
+                    "[solution]()\n" +
+                    "####")
+        }
+    }
+```
+</p>
+
+</details>
 
 ### 👀 [1726](https://leetcode.com/problemset/all/?search=1726&page=1) (Medium)
 ####
