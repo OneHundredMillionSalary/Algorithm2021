@@ -14,7 +14,7 @@ fun main() {
 }
 ```
 
-## 크롬 콘솔에서 실행하면 Easy!
+### 크롬 콘솔에서 실행하면 Easy!
 ```javascript
 function main() {
   const start = 1718;
